@@ -1,18 +1,18 @@
 **Amazon Sales Dashboard (Excel)**
 
-An Excel-based sales analysis project built using a dataset of 50,000 Amazon-style orders (January 2022 to December 2023). This project focuses on cleaning raw sales data, creating meaningful business metrics, and building an interactive dashboard using Pivot Tables and charts to analyze sales performance.
+An Excel-based sales analysis project built using a dataset of **50,000** Amazon-style orders **(January 2022 to December 2023)**. This project focuses on cleaning raw sales data, creating meaningful business metrics, and building an interactive dashboard using Pivot Tables and charts to analyze sales performance.
 
 **What's Inside the Workbook**
 
 - **Raw Data**: Original order-level data containing product, customer, sales, and discount information.
-- **Cleaned Data**: The dataset after adding calculated fields such as Year, Month, Discount Bucket, Discount Amount, Discounted Price, Revenue Lost, Gross Revenue, and Total Revenue.
+- **Cleaned Data**: The dataset after adding calculated fields such as Year, Month, Discount Bucket, Discount Amount, Discounted Price, Revenue Lost, and Total Revenue.
 - **Pivot Table**s: Summary tables used to analyze sales by category, region, payment method, and discount level.
 - **Dashboard**: An interactive dashboard that presents key business metrics and sales trends.
 
 **Data Fields**
 
-The dataset includes Order ID, Order Date, Product ID, Product Category, Price, Discount Percentage, Quantity Sold, Region, Payment Method, Product Rating, and Review Count.
-Additional calculated fields include Discount Amount, Discounted Price, Revenue Lost, Gross Revenue, and Total Revenue to support business analysis.
+The dataset includes Order ID, Order Date, Product ID, Product Category, Price, Discount Percentage, Quantity Sold, Region, Payment Method, and Product Rating.
+Additional calculated fields include Discount Amount, Discounted Price, Revenue Lost, and Total Revenue to support business analysis.
 
 **Key Insights**
 
