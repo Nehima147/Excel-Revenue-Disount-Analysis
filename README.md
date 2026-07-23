@@ -26,6 +26,14 @@ Additional calculated fields include Discount Amount, Discounted Price, Revenue 
 - Product ratings averaged around **3 out of 5** across all categories with very little variation.
 - Revenue remained stable between **2022 and 2023**, indicating consistent sales performance.
 
+**Business Recommendations**
+
+- Promote Sports products to improve sales.
+- Review discount offers to reduce revenue loss.
+- Continue investing in Beauty products as they generate the highest revenue.
+- Improve sales in lower-performing regions through marketing campaigns.
+- Monitor monthly sales trends to plan future promotions.
+
 **Tools Used**
 
 - Microsoft Excel
@@ -46,10 +54,4 @@ Additional calculated fields include Discount Amount, Discounted Price, Revenue 
 
 4.Review the Raw Data and Cleaned Data sheets to understand the data preparation process.
 
-**Business Recommendations**
 
-- Promote Sports products to improve sales.
-- Review discount offers to reduce revenue loss.
-- Continue investing in Beauty products as they generate the highest revenue.
-- Improve sales in lower-performing regions through marketing campaigns.
-- Monitor monthly sales trends to plan future promotions.
