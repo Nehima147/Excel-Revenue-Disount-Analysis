@@ -1,6 +1,6 @@
-**Amazon Sales Dashboard (Excel)**
+**Amazon Revenue performance Dashboard (Excel)**
 
-An Excel-based sales analysis project built using a dataset of **50,000** Amazon-style orders **(January 2022 to December 2023)**. This project focuses on cleaning raw sales data, creating meaningful business metrics, and building an interactive dashboard using Pivot Tables and charts to analyze sales performance.
+An Excel-based revenue and discount analysis project built using a dataset of **50,000** Amazon-style orders **(January 2022 to December 2023)**. This project focuses on cleaning raw sales data, creating meaningful business metrics, and building an interactive dashboard using Pivot Tables and charts to analyze sales performance.
 
 **What's Inside the Workbook**
 
